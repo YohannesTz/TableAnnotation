@@ -1,2 +1,2 @@
 # Table Annotation
-a simple demonstration on how you could use annotations in your projects.
+a simple demonstration on how you could use annotations in your projects. check out the full blog [here](https://medium.com/@yohannes222ethiopia/custom-annotations-and-metadata-in-java-c35e11d3ba7b).
